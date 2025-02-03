@@ -9,16 +9,23 @@ function App() {
   //useState is a hook(a method which havwe a single task) 
   //it return 2 value , 1st is a variable and 2nd is a function
 
+  
   const addValue=() =>{
-    console.log("Clicked",counter);
+    if (counter<20) 
+    {
     counter=counter+1
     setCounter(counter)
+   
+    }
   }
 
   const removeValue=()=>{
-    console.log("Clicked",counter);
+    if(counter>0)
+    {
+    
     
     setCounter(counter-1)
+    }
   
   }
   return (
