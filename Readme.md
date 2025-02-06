@@ -12,8 +12,8 @@ Tailwind Props | learn using Tailwind CSS in react projects|
 | Background Changer| Learn React state and event handling |
 | Currency Convertor  | Practice props, state management, and component reusability |
 | Password Generator | learn and implement useCallback,useEffect and useRef |
-
 | More coming soon... | Continuously adding new projects as I learn |
+
 
 ## *Getting Started*  
 To explore and run any of these projects locally, follow these steps:  
