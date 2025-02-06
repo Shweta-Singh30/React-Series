@@ -7,11 +7,11 @@ This repository is a collection of small projects that I am building to strength
 ## *Projects in This Series*  
 | Project | Description |
 |---------|------------|
-[Counter](./counterReact) | Learn React Props and hooks|
-[Tailwind Props](./TailwindProps) | learn using Tailwind CSS in react projects|
-| [Background Changer](./bgChanger) | Learn React state and event handling |
-| [Currency Convertor ](./currencyConvertor) | Practice props, state management, and component reusability |
-| [Password Generator](./passwordGenerator) | learn and implement useCallback,useEffect and useRef |
+[Counter] | Learn React Props and hooks|
+[Tailwind Props] | learn using Tailwind CSS in react projects|
+| [Background Changer]| Learn React state and event handling |
+| [Currency Convertor ] | Practice props, state management, and component reusability |
+| [Password Generator] | learn and implement useCallback,useEffect and useRef |
 
 | More coming soon... | Continuously adding new projects as I learn |
 
