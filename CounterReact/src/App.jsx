@@ -18,12 +18,11 @@ function App() {
    
     }
   }
-
+ 
+  //for decrease value of counter
   const removeValue=()=>{
     if(counter>0)
     {
-    
-    
     setCounter(counter-1)
     }
   
